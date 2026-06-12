@@ -31,7 +31,6 @@ The Restaurant Table Booking System is designed to simplify restaurant reservati
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
-
 |------------|----------|
 | PHP | Backend Development |
 | MySQL | Database Management |
