@@ -47,7 +47,10 @@ The Restaurant Table Booking System is designed to simplify restaurant reservati
 Restaurant-Table-Booking-System/
 │
 ├── admin/
+|
 ├── css/
+|
+|
 ├── js/
 ├── includes/
 ├── images/
