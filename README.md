@@ -57,7 +57,6 @@ Restaurant-Table-Booking-System/
 └── database.sql
 
 
-
 ---
 
 ## ⚙️ Installation Guide
@@ -79,16 +78,17 @@ git clone https://github.com/your-username/Restaurant-Table-Booking-System.git
 xampp/htdocs/
 
 3. Start Apache and MySQL.
-4.Create a database:
 
+4.Create a database:
 CREATE DATABASE rtbsdb;
+
 5. Import the SQL file into the database.
+
 6. Configure database settings in:
    includes/config.php
 
 7.Open browser and run:
 http://localhost/Restaurant-Table-Booking-System
-
 
 
 ----
